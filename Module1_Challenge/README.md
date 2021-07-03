@@ -18,6 +18,7 @@ The analysis of outcomes based on goals consist of datasets and a line chart whe
 ![outcome by goal](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module1_Challenge/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+Possible challenges may be to confirm that the original data is not filterted before any actions require it to be. Filtering on original data will make a mess on further reports such as functions that require additional filter on specific category. Formatting on the other hand, would be a simple but impermative mistake often made when entering data. Cell elements need to be formatted with care.
 
 ## Results
 
