@@ -3,4 +3,4 @@ All files are under its corresponding folder.
 This Url is the repository of all module challenges.
 <br>
 ex. Module1_Challenge contains all files and reports of module1 challenge.
-![](https://cdn.shopify.com/s/files/1/0256/8945/6711/files/topheady_2400x.gif?v=1574150407)
+![](https://t3.ftcdn.net/jpg/03/17/02/66/360_F_317026621_gxBKhW9g1aUgU0kMO5q2ROmfzDmN6zvd.jpg)
