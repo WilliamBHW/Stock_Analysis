@@ -10,7 +10,7 @@ The purpose of this project is to visualize how theater campaigns being held/can
 ## Analysis and Challenges
 
 #### Analysis of Outcomes Based on Launch Date
-
+The analysis of outcomes based on lunch date consist of pivot table and line chart where theater as the main filter for parent category. Count of outcomesbeing y-axis with month of the year being the x-axis. Colors are used to differenciate each category.
 #### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
