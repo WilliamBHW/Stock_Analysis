@@ -10,11 +10,11 @@ The purpose of this project is to visualize how theater campaigns being held/can
 ## Analysis and Challenges
 
 #### Analysis of Outcomes Based on Launch Date
-The analysis of outcomes based on lunch date consist of pivot table and a line chart where theater as the main filter for parent category. Count of outcomesbeing y-axis with month of the year being the x-axis. Colors are used to differenciate each category. This graph presents the trend of outcomes by month.
+The analysis of outcomes based on lunch date consist of pivot table and a line chart where theater as the main filter for parent category. Count of outcomesbeing y-axis with month of the year being the x-axis. Colors are used to differenciate each category of outcomes. This graph presents the trend of outcomes by month.
 <br>
 ![outcome by date](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module1_Challenge/Resources/Theater_Outcomes_vs_Launch.png)
 #### Analysis of Outcomes Based on Goals
-The analysis of outcomes based on goals consist of datasets and a line chart where "plays" being the filter of subcategory. Goals splitted into different ranges from "less than 1000" to "greater than 50000" as the x-axis, percentages of each outcome as y-axis. Color used to differenciate each type of outcomes.
+The analysis of outcomes based on goals consist of datasets and a line chart where "plays" being the filter of subcategory. Goals splitted into different ranges from "less than 1000" to "greater than 50000" as the x-axis, percentages of each outcome as y-axis. Color used to differenciate each type of outcomes. The graph presented the trend of outcomes by goal.
 <br>
 ![outcome by goal](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module1_Challenge/Resources/Outcomes_vs_Goals.png)
 
