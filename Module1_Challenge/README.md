@@ -9,9 +9,9 @@ The purpose of this project is to visualize how theater campaigns being held/can
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+#### Analysis of Outcomes Based on Launch Date
 
-### Analysis of Outcomes Based on Goals
+#### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
