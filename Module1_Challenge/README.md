@@ -11,6 +11,7 @@ The purpose of this project is to visualize how theater campaigns being held/can
 
 #### Analysis of Outcomes Based on Launch Date
 The analysis of outcomes based on lunch date consist of pivot table and line chart where theater as the main filter for parent category. Count of outcomesbeing y-axis with month of the year being the x-axis. Colors are used to differenciate each category.
+![image of outcome by date]https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module1_Challenge/Resources/Theater_Outcomes_vs_Launch.png
 #### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
