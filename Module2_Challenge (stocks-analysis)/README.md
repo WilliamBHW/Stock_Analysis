@@ -5,6 +5,7 @@ This project is aimed to analyze how much daily volumes each stock earned in toa
 
 ## Results
 Both macros used for loops in order to analyze the total daily volume of each stock and their growth in percentages. The original macro uses nested for loops to perform calculation and insertion of corresponding data. The refactored macro uses array to store values calculated and reads data from stores arrays to fill the cells.
+<>
 (Previous Macro)
 ![prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/Macro_Prev.png)
 (Refactored Macro)
