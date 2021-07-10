@@ -6,5 +6,5 @@ ex. Module1_Challenge contains all files and reports of module1 challenge.
 ![](https://t3.ftcdn.net/jpg/03/17/02/66/360_F_317026621_gxBKhW9g1aUgU0kMO5q2ROmfzDmN6zvd.jpg)
 <br>
 
-Module1 (Excel)
-Module2 (Excel-VBA)
+- Module1 (Excel)
+- Module2 (Excel-VBA)
