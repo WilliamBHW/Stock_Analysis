@@ -21,10 +21,12 @@ Both macros used for loops in order to analyze the total daily volume of each st
 ## Summary
 In general, refasctoriong of the code will make the program more efficient. Refactoring code will make them become less complex and more easy to read with documentations, code with refactorization are often easy to maintain. The most imperative disadvantag of refactorization is time, redisign of an algorithm is time consuming. Sometims you will lost track of what you are doing during the process.
 
-### Define Arrays
+#### Define Arrays
 ![array_define](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/Array_SetUp.png)
+<br>
 By setting up arrays, data are stored in a defined address (place) where they take small portion of memory. Reaching the data in arrays are extremly easy by using a pointer (such as "=").
 <br>
+
 The true difference between the two is that nested loops have longer run time than normal loops in algorithm because they have multiple readings and calculations. Storing values into array and read from the array does not require large amount of calculations therefore will signififantly reduce run time of a script. Both method present same results however having huge gap in run time.
 #### Macro Before Refactorization (Main Portion)
 ![prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/Macro_Prev.png)
