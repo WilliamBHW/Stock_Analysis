@@ -33,3 +33,6 @@ The true difference between the two is that nested loops have longer run time th
 #### Result of Macro Before Refactorization
 ![2017_prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/2017_prev.png)
 ![2018_prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/2018_prev.png)
+<br>
+
+In Conclusion, refactorization is time consuming but valuable to perform. A nice chunk of code will take less moemry and have more efficiency on desired output. Reduction and simplification is always a hard process than additions. It is a nice way to maintain efficiency and will have more beneficial future application.
