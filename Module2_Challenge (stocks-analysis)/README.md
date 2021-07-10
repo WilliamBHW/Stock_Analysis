@@ -12,7 +12,7 @@ Both macros used for loops in order to analyze the total daily volume of each st
 <br>
 
 #### Macro After Refactorization
-![new](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/Macro_New.png)
+![new]()
 #### Stock Analysis of 2017 Data
 ![2017_new](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/VBA_Challenge_2017.png)
 #### Stock Analysis of 2018 Data
@@ -22,7 +22,7 @@ Both macros used for loops in order to analyze the total daily volume of each st
 In general, refasctoriong of the code will make the program more efficient. Refactoring code will make them become less complex and more easy to read with documentations, code with refactorization are often easy to maintain. The most imperative disadvantag of refactorization is time, redisign of an algorithm is time consuming. Sometims you will lost track of what you are doing during the process.
 The true difference between the two is that nested loops have longer run time than normal loops in algorithm because they have multiple readings and calculations. Storing values into array and read from the array does not require large amount of calculations therefore will signififantly reduce run time of a script. Both method present same results however having huge gap in run time.
 #### Macro Before Refactorization
-![prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/Macro_Prev.png)
+![prev]()
 #### Result of Macro Before Refactorization
 ![2017_prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/2017_prev.png)
 ![2018_prev](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/2018_prev.png)
