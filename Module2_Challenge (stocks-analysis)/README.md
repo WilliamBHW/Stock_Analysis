@@ -1,10 +1,10 @@
 # Green Energy Stock Analysis
 
 ## Overview
-This project is aimed to analyze how much daily volumes each stock earned in toal and their growth in the selected year. Througout the use of VBA, the project will present how refactoring will reduce run time and preserve accuracy of the result.
+This project is aimed to analyze how much daily volumes each stock earned in toal and their growth of return in the selected year. Througout the use of VBA, the project will present how refactoring will reduce run time and preserve accuracy of the result.
 
 ## Results
-Both macros used for loops in order to analyze the total daily volume of each stock and their growth in percentages. The original macro uses nested for loops to perform calculation and insertion of corresponding data. The refactored macro uses array to store values calculated and reads data from stores arrays to fill the cells. In the year of 2017, most stocks are having positive growth return while TERP having a decrease of 7.2%. DQ in this year having increased daily total volume almost doubled in return. In the year of 2018, most stocks are having negative growth in return while ENPH and RUN boith having positive growth in return.
+Both macros used for loops in order to analyze the total daily volume of each stock and their growth in percentages. The original macro uses nested for loops to perform calculation and insertion of corresponding data. The refactored macro uses array to store values calculated and reads data from stores arrays to fill the cells. In the year of 2017, most stocks are having positive growth return while TERP having a decrease of 7.2%. DQ in this year having increased almost doubled in return. In the year of 2018, most stocks are having negative growth in return while ENPH and RUN boith having positive growth in return.
 <br>
 
 #### Macro After Refactorization
