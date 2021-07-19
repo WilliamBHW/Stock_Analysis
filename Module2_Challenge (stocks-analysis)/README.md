@@ -19,7 +19,7 @@ Both macros used for loops in order to analyze the total daily volume of each st
 ![2018_new](https://github.com/WilliamBHW/UT-DATA-BOOT-CAMP/blob/main/Module2_Challenge%20(stocks-analysis)/Resources/VBA_Challenge_2018.png)
 
 ## Summary
-In general, refasctoriong of the code will make the program more efficient. Refactoring code will make them become less complex and more easy to read with documentations, code with refactorization are often easy to maintain. The most imperative disadvantag of refactorization is time, redesign of an algorithm is time consuming. Sometims you will lost track of what you are doing during the process.
+In general, refactoriong of the code will make the program more efficient. Refactoring code will make them become less complex and more easy to read with documentations, code with refactorization are often easy to maintain. The most imperative disadvantag of refactorization is time, redesign of an algorithm is time consuming. Sometims you will lost track of what you are doing during the process.
 <br>
 
 Performing refactorization on VBA is just like how other ones work, it cleans the code and make logical errors easy to be resolve. On the other hand, time and mind are always the disadvantages however it avoids the future complexity. For instrance, setting up arrays will store data in a defined address (place) where they take small portion of memory. Reaching the data in arrays are extremly easy by using a pointer (such as "=").
